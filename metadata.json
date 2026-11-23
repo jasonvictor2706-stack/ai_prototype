@@ -1,0 +1,6 @@
+{
+  "name": "Alchemist's Grimoire",
+  "description": "An ancient alchemist's workbench for generating fantasy characters, RPG portraits, stats, and backstories using the Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
